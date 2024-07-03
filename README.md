@@ -9,11 +9,11 @@
 
 Let's build something amazing together! ✨
 
-- 📫 How to reach me **https://www.linkedin.com/in/pethmi-vithana-b37165205**
+- 📫 How to reach me **pethmi9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pethmi vithana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pethmi vithana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pethmi-vithana-b37165205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pethmi vithana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
