@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pethmi Vitahana</h1>
 <h3 align="center">A passionate Software Engineer studying at SLIIT</h3>
 
-- 🌱 I’m currently learning **MERN STACK, React, Java**
+-🌟 Third-year Software Engineering student at SLIIT Malabe
+💻 Passionate about web development and crafting seamless user experiences
+🚀 Always exploring new technologies and pushing the boundaries of innovation
+📚 Constantly learning and growing in the ever-evolving tech landscape
+🌍 Open to collaboration on exciting projects and eager to contribute to the open-source community
 
-- 📫 How to reach me **pethmi9@gmail.com**
+Let's build something amazing together! ✨
+
+- 📫 How to reach me **https://www.linkedin.com/in/pethmi-vithana-b37165205**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
