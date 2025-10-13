@@ -1,22 +1,148 @@
-<h1 align="center">Hi 👋, I'm Pethmi Vitahana</h1>
-<h3 align="center">A passionate Software Engineer studying at SLIIT</h3>
+<!-- 🌸 Modern & Dynamic GitHub Profile README for Pethmi Vithana -->
 
--🌟 Third-year Software Engineering student at SLIIT Malabe
-💻 Passionate about web development and crafting seamless user experiences
-🚀 Always exploring new technologies and pushing the boundaries of innovation
-📚 Constantly learning and growing in the ever-evolving tech landscape
-🌍 Open to collaboration on exciting projects and eager to contribute to the open-source community
-
-Let's build something amazing together! ✨
-
-- 📫 How to reach me **pethmi9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pethmi-vithana-b37165205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pethmi vithana" height="30" width="40" /></a>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7A9A8&center=true&vCenter=true&width=550&lines=👋+Hey+there!+I'm+Pethmi+Vithana;💻+Software+Engineer+%7C+Flutter+%7C+AI+%7C+Web+Dev;🚀+Innovating+at+the+intersection+of+AI+and+UX" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8f/91/1b/8f911b4e4df86c383e5bbf376f0d2a50.gif" width="100%" alt="Banner Animation"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pethmivithana&show_icons=true&locale=en&layout=compact" alt="pethmivithana" /></p>
+---
+
+## 🌟 About Me  
+
+👩‍💻 I'm **Pethmi Vithana**, a passionate **Software Engineer** and **Undergraduate Student** at  
+🎓 **Sri Lanka Institute of Information Technology (SLIIT)**, pursuing a  
+**BSc (Hons) in Information Technology – Software Engineering Specialization**.  
+
+💡 I love blending creativity and logic to craft **intelligent digital experiences** through **Flutter**, **AI**, and **Web Technologies**.  
+🤖 My vision is to develop **AI-powered, adaptive applications** that feel intuitive and human-centered.
+
+---
+
+## 🧠 Skills & Technologies  
+
+### 💬 Languages  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### ⚙️ Frameworks & Tools  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🧩 Databases & Cloud  
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+<!-- Unique Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
+
+## 🚀 Featured Projects  
+
+### 🧩 [EAC SLIIT – English Learning Platform](https://github.com/thakshilaCodes/DL-Assignment.git)
+A comprehensive **Flutter-based mobile application** serving **2,000+ SLIIT students** for English learning.  
+- 📱 Built using **Flutter** and **Firebase**.  
+- 🌍 Deployed on **Google Play Store** and **Apple App Store**.  
+- 🔐 Full-stack project enabling interactive lessons, progress tracking, and accessibility.  
+
+> *Empowering students with an engaging digital learning experience.*
+
+---
+
+### 🤖 [Loan Default Prediction Model & Web Interface](https://github.com/thakshilaCodes/DL-Assignment.git)
+A **Deep Learning-powered web tool** that predicts loan default risk.  
+- 🧮 Built using **Python** and **TensorFlow**.  
+- 🧠 Interactive **Streamlit/Flask** interface for financial institutions.  
+- 🚀 Enables risk-aware, data-driven decision-making.  
+
+> *Combines predictive AI and real-world business impact.*
+
+---
+
+### 🌱 [CSSE Waste Management App](https://github.com/IT22126092/csse-waste-management.git)
+A **Flutter + Firebase** app promoting sustainable waste management.  
+- 🗑️ Tracks waste collection schedules and reminders.  
+- 🌍 Offers eco-friendly recycling tips and guides.  
+- 🧩 Supports community-driven environmental change.  
+
+> *Technology built for sustainability and smarter living.*
+
+---
+
+<!-- Animated Tech Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%"/>
+</p>
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pethmivithana&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pethmivithana&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🧩 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pethmivithana&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages Chart" width="55%" />
+</p>
+
+---
+
+## ✨ Unique Developer Highlights  
+
+- 🔄 **Cross-platform Innovator** – Experienced in building apps for both Android & iOS using Flutter.  
+- 🧠 **AI Integrator** – Passionate about embedding machine learning into real-world products.  
+- 🕸️ **Full-Stack Developer** – From backend logic to pixel-perfect UI.  
+- 🌍 **Community-Oriented** – Focused on projects with real societal value.  
+- 🧩 **Clean Code Advocate** – Believe in elegant simplicity and maintainable design.
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="mailto:pethmi9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pethmi-vithana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/pethmivithana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+
+## 💬 Personal Vision  
+
+> ✨ *"Innovation begins where imagination meets discipline."*  
+> 🎯 **Goal:** To pioneer AI-enhanced mobile and web apps that anticipate user needs.  
+> 🎨 **Passion:** Designing seamless, intelligent, and emotionally engaging digital experiences.  
+> 💡 **Philosophy:** Software should feel as natural as the human mind that uses it.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="120" alt="Coding gif" /><br>
+  <i>“Building tomorrow’s software, one line of code at a time.”</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F77FBE,100:FCE38A&height=100&section=footer"/>
+</p>
+
+⭐️ *Crafted with creativity and code — by Pethmi Vithana*
