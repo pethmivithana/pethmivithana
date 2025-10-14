@@ -47,9 +47,6 @@
 
 ---
 
-<!-- Unique Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
-
 ## 🚀 Featured Projects  
 
 ### 🧩 [EAC SLIIT – English Learning Platform](https://github.com/thakshilaCodes/DL-Assignment.git)
@@ -91,7 +88,6 @@ A **Flutter + Firebase** app promoting sustainable waste management.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pethmivithana&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pethmivithana&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
