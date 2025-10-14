@@ -69,7 +69,7 @@ A **Deep Learning-powered web tool** that predicts loan default risk.
 
 ---
 
-### 🌱 [CSSE Waste Management App](https://github.com/IT22126092/csse-waste-management.git)
+### 🌱 [CSSE Waste Management App](https://github.com/pethmivithana/csse-waste-management.git)
 A **Flutter + Firebase** app promoting sustainable waste management.  
 - 🗑️ Tracks waste collection schedules and reminders.  
 - 🌍 Offers eco-friendly recycling tips and guides.  
