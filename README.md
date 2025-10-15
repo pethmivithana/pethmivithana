@@ -49,7 +49,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🧩 [EAC SLIIT – English Learning Platform](https://github.com/thakshilaCodes/DL-Assignment.git)
+### 🧩 [EAC SLIIT – English Learning Platform](https://github.com/pethmivithana/Effective_Academic_Communication.git)
 A comprehensive **Flutter-based mobile application** serving **2,000+ SLIIT students** for English learning.  
 - 📱 Built using **Flutter** and **Firebase**.  
 - 🌍 Deployed on **Google Play Store** and **Apple App Store**.  
