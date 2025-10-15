@@ -59,7 +59,7 @@ A comprehensive **Flutter-based mobile application** serving **2,000+ SLIIT stud
 
 ---
 
-### 🤖 [Loan Default Prediction Model & Web Interface](https://github.com/thakshilaCodes/DL-Assignment.git)
+### 🤖 [Loan Default Prediction Model & Web Interface](https://github.com/pethmivithana/LoanPulse-Automobile-Loan-Prediction-System.git)
 A **Deep Learning-powered web tool** that predicts loan default risk.  
 - 🧮 Built using **Python** and **TensorFlow**.  
 - 🧠 Interactive **Streamlit/Flask** interface for financial institutions.  
